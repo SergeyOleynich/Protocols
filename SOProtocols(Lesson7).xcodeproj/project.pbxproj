@@ -14,6 +14,7 @@
 		CC1861A51B3DA53600DC728A /* SOHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = CC18619C1B3DA53600DC728A /* SOHuman.m */; };
 		CC1861A61B3DA53600DC728A /* SORunner.m in Sources */ = {isa = PBXBuildFile; fileRef = CC18619E1B3DA53600DC728A /* SORunner.m */; };
 		CC1861A71B3DA53600DC728A /* SOSwimmer.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1861A01B3DA53600DC728A /* SOSwimmer.m */; };
+		CC1861A91B3DB8F200DC728A /* gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CC1861A81B3DB8F200DC728A /* gitignore */; };
 		CCF5ABD01B371B27004E3A31 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABCF1B371B27004E3A31 /* main.m */; };
 		CCF5ABD31B371B27004E3A31 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABD21B371B27004E3A31 /* AppDelegate.m */; };
 		CCF5ABD61B371B27004E3A31 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABD51B371B27004E3A31 /* ViewController.m */; };
@@ -49,6 +50,7 @@
 		CC18619E1B3DA53600DC728A /* SORunner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SORunner.m; sourceTree = "<group>"; };
 		CC18619F1B3DA53600DC728A /* SOSwimmer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SOSwimmer.h; sourceTree = "<group>"; };
 		CC1861A01B3DA53600DC728A /* SOSwimmer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SOSwimmer.m; sourceTree = "<group>"; };
+		CC1861A81B3DB8F200DC728A /* gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gitignore; sourceTree = SOURCE_ROOT; };
 		CCF5ABCA1B371B27004E3A31 /* SOProtocols(Lesson7).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SOProtocols(Lesson7).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF5ABCE1B371B27004E3A31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCF5ABCF1B371B27004E3A31 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 		CCF5ABCD1B371B27004E3A31 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CC1861A81B3DB8F200DC728A /* gitignore */,
 				CCF5ABCE1B371B27004E3A31 /* Info.plist */,
 				CCF5ABCF1B371B27004E3A31 /* main.m */,
 			);
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCF5ABD91B371B27004E3A31 /* Main.storyboard in Resources */,
+				CC1861A91B3DB8F200DC728A /* gitignore in Resources */,
 				CCF5ABDE1B371B27004E3A31 /* LaunchScreen.xib in Resources */,
 				CCF5ABDB1B371B27004E3A31 /* Images.xcassets in Resources */,
 			);

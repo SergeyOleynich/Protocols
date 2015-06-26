@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16A3051B-7653-4FC1-ABA8-7ADE01A130EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SOProtocols(Lesson7)</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BBF1A5C17A4E529E7C85415FAE4B90119F7C7F92</key>
+		<string>https://github.com/SergeyOleynich/Protocols.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SOProtocols(Lesson7).xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BBF1A5C17A4E529E7C85415FAE4B90119F7C7F92</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SergeyOleynich/Protocols.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BBF1A5C17A4E529E7C85415FAE4B90119F7C7F92</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBF1A5C17A4E529E7C85415FAE4B90119F7C7F92</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SOProtocols(Lesson7)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
