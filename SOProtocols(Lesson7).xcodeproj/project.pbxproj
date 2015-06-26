@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC1861A11B3DA53600DC728A /* SOAnimal.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1861931B3DA53600DC728A /* SOAnimal.m */; };
+		CC1861A21B3DA53600DC728A /* SODog.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1861951B3DA53600DC728A /* SODog.m */; };
+		CC1861A31B3DA53600DC728A /* SORabbit.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1861971B3DA53600DC728A /* SORabbit.m */; };
+		CC1861A41B3DA53600DC728A /* SOBicycler.m in Sources */ = {isa = PBXBuildFile; fileRef = CC18619A1B3DA53600DC728A /* SOBicycler.m */; };
+		CC1861A51B3DA53600DC728A /* SOHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = CC18619C1B3DA53600DC728A /* SOHuman.m */; };
+		CC1861A61B3DA53600DC728A /* SORunner.m in Sources */ = {isa = PBXBuildFile; fileRef = CC18619E1B3DA53600DC728A /* SORunner.m */; };
+		CC1861A71B3DA53600DC728A /* SOSwimmer.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1861A01B3DA53600DC728A /* SOSwimmer.m */; };
 		CCF5ABD01B371B27004E3A31 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABCF1B371B27004E3A31 /* main.m */; };
 		CCF5ABD31B371B27004E3A31 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABD21B371B27004E3A31 /* AppDelegate.m */; };
 		CCF5ABD61B371B27004E3A31 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABD51B371B27004E3A31 /* ViewController.m */; };
@@ -14,6 +21,7 @@
 		CCF5ABDB1B371B27004E3A31 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF5ABDA1B371B27004E3A31 /* Images.xcassets */; };
 		CCF5ABDE1B371B27004E3A31 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CCF5ABDC1B371B27004E3A31 /* LaunchScreen.xib */; };
 		CCF5ABEA1B371B27004E3A31 /* SOProtocols_Lesson7_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = CCF5ABE91B371B27004E3A31 /* SOProtocols_Lesson7_Tests.m */; };
+		CCF5ABF71B371BB6004E3A31 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CCF5ABF61B371BB6004E3A31 /* UIKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +35,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CC1861921B3DA53600DC728A /* SOAnimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SOAnimal.h; sourceTree = "<group>"; };
+		CC1861931B3DA53600DC728A /* SOAnimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SOAnimal.m; sourceTree = "<group>"; };
+		CC1861941B3DA53600DC728A /* SODog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SODog.h; sourceTree = "<group>"; };
+		CC1861951B3DA53600DC728A /* SODog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SODog.m; sourceTree = "<group>"; };
+		CC1861961B3DA53600DC728A /* SORabbit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SORabbit.h; sourceTree = "<group>"; };
+		CC1861971B3DA53600DC728A /* SORabbit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SORabbit.m; sourceTree = "<group>"; };
+		CC1861991B3DA53600DC728A /* SOBicycler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SOBicycler.h; sourceTree = "<group>"; };
+		CC18619A1B3DA53600DC728A /* SOBicycler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SOBicycler.m; sourceTree = "<group>"; };
+		CC18619B1B3DA53600DC728A /* SOHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SOHuman.h; sourceTree = "<group>"; };
+		CC18619C1B3DA53600DC728A /* SOHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SOHuman.m; sourceTree = "<group>"; };
+		CC18619D1B3DA53600DC728A /* SORunner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SORunner.h; sourceTree = "<group>"; };
+		CC18619E1B3DA53600DC728A /* SORunner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SORunner.m; sourceTree = "<group>"; };
+		CC18619F1B3DA53600DC728A /* SOSwimmer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SOSwimmer.h; sourceTree = "<group>"; };
+		CC1861A01B3DA53600DC728A /* SOSwimmer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SOSwimmer.m; sourceTree = "<group>"; };
 		CCF5ABCA1B371B27004E3A31 /* SOProtocols(Lesson7).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SOProtocols(Lesson7).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF5ABCE1B371B27004E3A31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCF5ABCF1B371B27004E3A31 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +62,10 @@
 		CCF5ABE31B371B27004E3A31 /* SOProtocols(Lesson7)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SOProtocols(Lesson7)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF5ABE81B371B27004E3A31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCF5ABE91B371B27004E3A31 /* SOProtocols_Lesson7_Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SOProtocols_Lesson7_Tests.m; sourceTree = "<group>"; };
+		CCF5ABF31B371B66004E3A31 /* Jumpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Jumpers.h; sourceTree = "<group>"; };
+		CCF5ABF41B371B78004E3A31 /* Swimmers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Swimmers.h; sourceTree = "<group>"; };
+		CCF5ABF51B371B90004E3A31 /* Runners.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Runners.h; sourceTree = "<group>"; };
+		CCF5ABF61B371BB6004E3A31 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCF5ABF71B371BB6004E3A31 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,9 +87,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CC1861911B3DA53600DC728A /* Animals */ = {
+			isa = PBXGroup;
+			children = (
+				CC1861921B3DA53600DC728A /* SOAnimal.h */,
+				CC1861931B3DA53600DC728A /* SOAnimal.m */,
+				CC1861941B3DA53600DC728A /* SODog.h */,
+				CC1861951B3DA53600DC728A /* SODog.m */,
+				CC1861961B3DA53600DC728A /* SORabbit.h */,
+				CC1861971B3DA53600DC728A /* SORabbit.m */,
+			);
+			path = Animals;
+			sourceTree = "<group>";
+		};
+		CC1861981B3DA53600DC728A /* Humans */ = {
+			isa = PBXGroup;
+			children = (
+				CC1861991B3DA53600DC728A /* SOBicycler.h */,
+				CC18619A1B3DA53600DC728A /* SOBicycler.m */,
+				CC18619B1B3DA53600DC728A /* SOHuman.h */,
+				CC18619C1B3DA53600DC728A /* SOHuman.m */,
+				CC18619D1B3DA53600DC728A /* SORunner.h */,
+				CC18619E1B3DA53600DC728A /* SORunner.m */,
+				CC18619F1B3DA53600DC728A /* SOSwimmer.h */,
+				CC1861A01B3DA53600DC728A /* SOSwimmer.m */,
+			);
+			path = Humans;
+			sourceTree = "<group>";
+		};
 		CCF5ABC11B371B27004E3A31 = {
 			isa = PBXGroup;
 			children = (
+				CC1861911B3DA53600DC728A /* Animals */,
+				CC1861981B3DA53600DC728A /* Humans */,
+				CCF5ABF61B371BB6004E3A31 /* UIKit.framework */,
 				CCF5ABCC1B371B27004E3A31 /* SOProtocols(Lesson7) */,
 				CCF5ABE61B371B27004E3A31 /* SOProtocols(Lesson7)Tests */,
 				CCF5ABCB1B371B27004E3A31 /* Products */,
@@ -89,6 +147,9 @@
 				CCF5ABDA1B371B27004E3A31 /* Images.xcassets */,
 				CCF5ABDC1B371B27004E3A31 /* LaunchScreen.xib */,
 				CCF5ABCD1B371B27004E3A31 /* Supporting Files */,
+				CCF5ABF31B371B66004E3A31 /* Jumpers.h */,
+				CCF5ABF41B371B78004E3A31 /* Swimmers.h */,
+				CCF5ABF51B371B90004E3A31 /* Runners.h */,
 			);
 			path = "SOProtocols(Lesson7)";
 			sourceTree = "<group>";
@@ -219,9 +280,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC1861A41B3DA53600DC728A /* SOBicycler.m in Sources */,
 				CCF5ABD61B371B27004E3A31 /* ViewController.m in Sources */,
+				CC1861A61B3DA53600DC728A /* SORunner.m in Sources */,
+				CC1861A31B3DA53600DC728A /* SORabbit.m in Sources */,
+				CC1861A71B3DA53600DC728A /* SOSwimmer.m in Sources */,
+				CC1861A21B3DA53600DC728A /* SODog.m in Sources */,
+				CC1861A11B3DA53600DC728A /* SOAnimal.m in Sources */,
 				CCF5ABD31B371B27004E3A31 /* AppDelegate.m in Sources */,
 				CCF5ABD01B371B27004E3A31 /* main.m in Sources */,
+				CC1861A51B3DA53600DC728A /* SOHuman.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +486,7 @@
 				CCF5ABEF1B371B27004E3A31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CCF5ABF01B371B27004E3A31 /* Build configuration list for PBXNativeTarget "SOProtocols(Lesson7)Tests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +495,7 @@
 				CCF5ABF21B371B27004E3A31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
